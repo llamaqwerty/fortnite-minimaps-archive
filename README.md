@@ -26,7 +26,7 @@ Adding new minimaps every so often👀
 
   [12.61](https://drive.google.com/file/d/1UFyQzwaSI-t4fhdUWQGXhUqkAaH-_DZ1/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [12.00](https://drive.google.com/file/d/1ZKxNPPbWHaBsEv3lMvdOlUBdXuE9K7_n/view?usp=drive_link)
 
@@ -63,7 +63,7 @@ Adding new minimaps every so often👀
 
   [13.30 (4)](https://drive.google.com/file/d/1Ow3Zq8NXLbXU4XH9jIu58XnkYWo-DK3_/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [13.20 (1)](https://drive.google.com/file/d/1YcKH3_3G5hHkD1EF9quRisEdDrIug6ch/view?usp=drive_link)
 
@@ -90,7 +90,7 @@ Adding new minimaps every so often👀
 
   [14.50](https://drive.google.com/file/d/1N6MAFv7FPVqDwORZLGuj4hwOxNirXpZM/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
   
   [14.30](https://drive.google.com/file/d/15akULGBQOOYSIvZoS_v0yRVGve9Yh3d0/view?usp=drive_link)
 
@@ -107,7 +107,7 @@ Adding new minimaps every so often👀
 
   [15.10 Snow Layer Minimap](https://drive.google.com/file/d/10pP0n-Y3_TY5FyV_cfMHzQs4oPI5RFMK/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
   
   [15.00](https://drive.google.com/file/d/1z5Io6Y5qWfi04IKRK_WiXDcLUDSj2mX2/view?usp=drive_link)
 
@@ -120,7 +120,7 @@ Adding new minimaps every so often👀
 
   [16.10](https://drive.google.com/file/d/1f1GhWPYrjeyVL8kEpwDOQaHk6nwKIoNR/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [16.10](https://drive.google.com/file/d/119PHUkSnapdjfiyWnAinD8WAqOfyfpeH/view?usp=drive_link)
 
@@ -131,7 +131,7 @@ Adding new minimaps every so often👀
 
   [17.10](https://drive.google.com/file/d/1rYF8RmAfPtHA_HZhKCpuPDJCZEF-cQuy/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [17.10](https://drive.google.com/file/d/1lVCHwy7or15mwe1cWDESc8b48F0pLK3-/view?usp=drive_link)
 
@@ -142,7 +142,7 @@ Adding new minimaps every so often👀
 
   [18.20](https://drive.google.com/file/d/16JzYiXMGrWGvflkeuBF11icClD4QIS6T/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [18.20](https://drive.google.com/file/d/1vIas5VsQTe9aYDxqC5ksWohwP7Tku2m7/view?usp=drive_link)
 
@@ -155,6 +155,8 @@ Adding new minimaps every so often👀
 
   [Main-CL-21452241](https://drive.google.com/file/d/1Qm7-rg7-doe8gONbQIcPoE7425UBEvlp/view?usp=drive_link)
 
+  **Undiscovered**
+
   [21.00](https://drive.google.com/file/d/1DNFC1zII7tgqB1_cTo7Paio5M8h41rOC/view?usp=drive_link)
 
 </details>
@@ -164,7 +166,7 @@ Adding new minimaps every so often👀
 
   [22.40](https://drive.google.com/file/d/1rMZagMeeHhtx8GwtEWky7Lor5e3lAnwq/view?usp=drive_link)
 
-  Undiscovered
+  **Undiscovered**
 
   [22.40](https://drive.google.com/file/d/10bjkPDH5AJ030VtpgFssSk3b4HG_JIDZ/view?usp=drive_link)
 
@@ -187,7 +189,7 @@ Adding new minimaps every so often👀
 <details open>
   <summary><h1>Season 32</h1></summary>
 
-  Post Mask
+  **Post Mask**
 
   [32.11](https://drive.google.com/file/d/1y6hAW-h1cCt9pg-Vm2lk1NrRueKocMeg/view?usp=drive_link)
 
@@ -198,7 +200,7 @@ Adding new minimaps every so often👀
 
   [34.10](https://drive.google.com/file/d/1m_ITo1xd88HDxl64_SI_MY0_AMXPe3Dk/view?usp=drive_link)
 
-  Undiscovered
+  **Post Mask**
 
   [34.00](https://drive.google.com/file/d/1HIjELMphOVsaDBnRmQR3pxx5cVJIYSMj/view?usp=drive_link)
 
@@ -211,7 +213,7 @@ Adding new minimaps every so often👀
 
   [36.20](https://drive.google.com/file/d/1Lai3-OAGYtW9Ft208datwc-Yt-fTZK3a/view?usp=drive_link)
 
-  Undiscovered
+  **Post Mask**
 
   [36.20](https://drive.google.com/file/d/1egFVTrLOpXpMIeo7-kYm6bHNFXTtrc6u/view?usp=drive_link)
 
