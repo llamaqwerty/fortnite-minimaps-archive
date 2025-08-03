@@ -244,10 +244,21 @@ Adding new minimaps every so often👀
 
   [22.40](https://drive.google.com/file/d/10bVFlsPjpxW_6eXEsB471iUHTwAh3dhI/view)
 
+  </details>
+
+<details open>
+  <summary><h1>Season 23</h1></summary>
+
+  [23.50](https://drive.google.com/file/d/1TyW8bnJ7WNleafwCdBQbjYI_oUnRMsYc/view)
+
+  **Discoverability**
+
+  [23.50](https://drive.google.com/file/d/10C6zjBIzMo7m1_MC2Y3QSkVa3EWYS1rQ/view)
+  
 </details>
 
 <details open>
-  <summary><h1>Season 30</h1></summary>
+  <summary><h1>Season 27</h1></summary>
 
   [27.00 (26.xx prototype minimap)](https://drive.google.com/file/d/1G4zGDaloQcwL020h4OoL2FS5pNonUurK/view)
 
